@@ -2,7 +2,7 @@
 
 model/
 .vscode/
-*txt
+command.txt
 *pyc
 
 practise.py
